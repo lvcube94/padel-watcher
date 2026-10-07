@@ -1,0 +1,32 @@
+{
+  "_hinweis": "travel_min = OePNV Tuer zu Tuer ab Buero Budapester Str. 35, Ankunft Mo 18:00. Quelle: VBB-Routing via v6.bvg.transport.rest, Abfrage 07.10.2026. Platztyp (indoor/outdoor) liest das Skript taeglich von der Playtomic-Clubseite.",
+  "timezone": "Europe/Berlin",
+  "weekdays": [0, 1, 2, 3, 4],
+  "_weekdays": "0=Mo, 1=Di, 2=Mi, 3=Do, 4=Fr, 5=Sa, 6=So",
+  "earliest_start": "18:00",
+  "latest_start": "23:00",
+  "days_ahead": 14,
+  "max_travel_min": 999,
+  "clubs": [
+    {"slug": "mitte-charlotte", "name": "mitte – charlotte (Charlottenburg)", "address": "Sophie-Charlotten-Str. 14", "tenant_id": "8b818dae-aacb-4ea3-aa7b-0e77b1149c85", "travel_min": 22, "active": true},
+    {"slug": "beachmitte", "name": "BeachMitte (Mitte)", "address": "Caroline-Michaelis-Str. 8", "tenant_id": "aa7e1831-a90d-4a4f-b6ae-f6d334179907", "travel_min": 27, "active": true},
+    {"slug": "padel-mitte", "name": "Padel Mitte (Wedding)", "address": "Müllerstr. 185", "tenant_id": "528af083-c941-480e-9d80-b79c82e5bd3f", "travel_min": 28, "active": true},
+    {"slug": "nixe-padel", "name": "NIXE Padel (Wannsee)", "address": "Königstr. 4b", "tenant_id": "934f491a-a565-44cc-96cb-c4d5352dca95", "travel_min": 31, "active": true},
+    {"slug": "kreuzberg-padel", "name": "Birgit (Kreuzberg)", "address": "Schleusenufer 3", "tenant_id": "d4506944-7eb2-40bd-b9ea-9ad4a769db04", "travel_min": 34, "active": true},
+    {"slug": "padel-lankwitz", "name": "Padel Lankwitz", "address": "Leonorenstr. 37", "tenant_id": "f6f12032-198e-4657-ab45-8aeb0b8a24b5", "travel_min": 34, "active": true},
+    {"slug": "fuchse-berlin", "name": "Füchse Berlin (Reinickendorf)", "address": "Freiheitsweg 18", "tenant_id": "d3edd4f5-1930-4d19-aba8-44d62f8f9da8", "travel_min": 36, "active": true},
+    {"slug": "kickerworld-berlin-gmbh", "name": "Kickerworld (Spandau)", "address": "Kl. Eiswerderstr. 1", "tenant_id": "16825678-053a-400d-b626-4c386d58706b", "travel_min": 37, "active": true},
+    {"slug": "tio-tio-rooftop", "name": "TIO TIO Rooftop (Rummelsburg)", "address": "Marktstr. 6", "tenant_id": "041a4a3c-8895-465d-91d1-c22f75049770", "travel_min": 37, "active": true},
+    {"slug": "padel-neukolln", "name": "Padel Neukölln (Hasenheide)", "address": "Oderstr. 182", "tenant_id": "632ca5b0-93bc-4718-a3e9-288bc2fe507d", "travel_min": 38, "active": true},
+    {"slug": "padelbros-berlin", "name": "PadelBros (Wittenau)", "address": "Wittestr. 46", "tenant_id": "4a3497a5-f9bd-43eb-9aaa-a972a856b3d2", "travel_min": 38, "active": true},
+    {"slug": "padel-berlin-ostkreuz", "name": "Padel Berlin Ostkreuz (Rummelsburg)", "address": "Wiesenweg 1-4", "tenant_id": "6adc7add-0547-4f48-830e-153f9aa5948d", "travel_min": 42, "active": true},
+    {"slug": "pbc-sports", "name": "PBC Center (Mariendorf)", "address": "Großbeerenstr. 2-10", "tenant_id": "9fea856e-7d1a-4cae-9831-79015318967b", "travel_min": 42, "active": true},
+    {"slug": "pdlx", "name": "PDLX Berlin (Lichterfelde)", "address": "Malteserstr. 139", "tenant_id": "78b39d52-9275-4eeb-8466-1d66f7e1aa7b", "travel_min": 42, "active": true},
+    {"slug": "padel-tree-berlin", "name": "Padel Tree @ Playground (Adlershof)", "address": "Adlergestell 105", "tenant_id": "3c2575f2-ae8c-4116-930b-842eea12b75c", "travel_min": 43, "active": true},
+    {"slug": "grenzallee-padel", "name": "Padel Arena Berlin (Neukölln)", "address": "Haberstr. 18", "tenant_id": "31bb4900-5ad3-424a-a7fe-ed49ed2bf8e8", "travel_min": 45, "active": true},
+    {"slug": "padel-fc", "name": "Padelhaus (Rummelsburg)", "address": "Köpenicker Chaussee 11-14", "tenant_id": "0220b0b5-c27a-4433-9c91-1798aaec5250", "travel_min": 51, "active": true},
+    {"slug": "padel-factory-berlin", "name": "Padel Factory (Biesdorf)", "address": "Am Gewerbepark 5", "tenant_id": "ab298454-60d0-499d-8491-692db482421a", "travel_min": 60, "active": true},
+    {"slug": "padel-marzahn", "name": "Padel Marzahn", "address": "Gehrenseestr. 42a", "tenant_id": "d9f1d313-712b-4d7c-a80c-cb1f5f5c0346", "travel_min": 48, "active": false, "note": "Eroeffnung laut Playtomic 2027"},
+    {"slug": "rainbow-padel", "name": "Rainbow Padel (Bernau)", "address": "Niederbarnimallee 116, Bernau", "tenant_id": "dbd1589f-a99f-41cb-93bb-33a95c0789ba", "travel_min": 76, "active": false, "note": "ausserhalb Berlins"}
+  ]
+}
